@@ -12,7 +12,6 @@ A project to analyze hotel customer reviews using Natural Language Processing (N
 - [Workflow](#workflow)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 ---
 
 ## Overview
@@ -61,13 +60,6 @@ The dataset contains:
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn
 - **Data Visualization**: Matplotlib, Seaborn
----
-## Contributing
-Contributions are welcome! If you'd like to contribute, please:
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Submit a pull request.
 ---
 
 ## Installation

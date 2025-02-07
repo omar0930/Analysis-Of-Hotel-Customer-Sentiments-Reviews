@@ -44,6 +44,32 @@ The dataset contains:
 - **Text Reviews**: Customer opinions on various aspects of hotel stays
 
 
+ ---
+ ## Workflow
+1. Data collection and cleaning.
+2. Exploratory data analysis (EDA).
+3. Feature engineering and preprocessing.
+4. Model selection and training.
+5. Evaluation and interpretation of results.
+---
+## Results
+- Insights into customer satisfaction trends.
+- Sentiment distribution across different hotel ratings.
+- Predictive modeling for sentiment analysis.
+---
+## Technologies Used
+- **Programming Language**: Python
+- **Libraries**: Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn
+- **Data Visualization**: Matplotlib, Seaborn
+---
+## Contributing
+Contributions are welcome! If you'd like to contribute, please:
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Submit a pull request.
+---
+
 ## Installation
 1. Clone the repository:
    ```bash

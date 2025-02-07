@@ -30,7 +30,7 @@ This project analyzes hotel reviews to:
 - Interactive visualizations (word clouds, sentiment distribution)
 
 ---
-  ## Dataset Overview
+  ## Dataset
 This dataset consists of over 515,000 hotel reviews collected from TripAdvisor across Europe. It provides valuable insights into customer satisfaction, sentiment analysis, and hotel service quality.
 
 ## Dataset Source

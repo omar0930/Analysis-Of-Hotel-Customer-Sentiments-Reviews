@@ -13,9 +13,6 @@ A project to analyze hotel customer reviews using Natural Language Processing (N
 - [Results](#results)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ---
 
 ## Overview
@@ -33,6 +30,19 @@ This project analyzes hotel reviews to:
 - Interactive visualizations (word clouds, sentiment distribution)
 
 ---
+  ## Dataset Overview
+This dataset consists of over 515,000 hotel reviews collected from TripAdvisor across Europe. It provides valuable insights into customer satisfaction, sentiment analysis, and hotel service quality.
+
+## Dataset Source
+- **Kaggle Dataset**: [515K Hotel Reviews Data in Europe](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europ)
+- **Platform**: TripAdvisor
+
+## Dataset Contents
+The dataset contains:
+- **20,000+ unique hotel reviews**
+- **Ratings**: From 1 to 5 stars
+- **Text Reviews**: Customer opinions on various aspects of hotel stays
+
 
 ## Installation
 1. Clone the repository:
@@ -41,9 +51,7 @@ This project analyzes hotel reviews to:
    cd Analysis-Of-Hotel-Customer-Sentiments-Reviews
 
    
-   ## Dataset
-   - The Used DataSet Link From Kaggle (515K Hotel Reviews Data in Europe) : 
-https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europ
+
 
 
 
